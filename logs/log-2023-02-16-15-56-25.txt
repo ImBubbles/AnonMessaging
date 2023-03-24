@@ -1,0 +1,26 @@
+[2023-02-16-15-56-25] File | New file - log:logs\log-2023-02-16-15-56-25.txt
+[2023-02-16-15-56-25] File | New file - server:server.txt
+[2023-02-16-15-56-26] File | Loaded file - user-channels:user-channels.txt
+[2023-02-16-15-56-26] File | New file - fakenames:fakenames.txt
+[2023-02-16-15-56-26] Startup | Events started
+[2023-02-16-15-56-26] Startup | Startup classes started
+[2023-02-16-15-56-26] Startup | Bot started
+[2023-02-16-15-56-26] File | New file - commands:commands.txt
+[2023-02-16-15-56-26] Startup | Commands registered: /ad
+[2023-02-16-15-56-26] Startup | Commands registered: /message
+[2023-02-16-15-56-26] Startup | Commands registered: /fixme
+[2023-02-16-15-56-26] Startup | Commands registered: /fakename
+[2023-02-16-15-56-26] Startup | Commands registered: /list
+[2023-02-16-15-56-26] Startup | Commands started
+[2023-02-16-15-56-36] Event | MessageReceivedEvent - 1071679321997062244:168190484819345409:if your advertisement was removed, it was due to it being incompatible
+[2023-02-16-16-00-21] Event | MessageReceivedEvent - 1071679321997062244:168190484819345409:L bot
+[2023-02-16-16-00-27] Event | MessageReceivedEvent - 1071552113634721803:302050872383242240:
+[2023-02-16-18-09-55] Event | MessageReceivedEvent - 1071552338780754012:873122136343068692:
+[2023-02-16-18-11-20] Event | SlashCommandInteractionEvent - /fakename name: Ryan:873122136343068692
+[2023-02-16-18-11-20] File | New fake name entry - 873122136343068692:Ryan
+[2023-02-16-18-11-20] Channel | New channel for 873122136343068692
+[2023-02-16-18-11-20] Event | MessageReceivedEvent - 1075932426716594196:1070390016016121937:**New channel for user:**
+𝙸ᵃᵐ|sᴀʟᴛ
+
+**Under fake name:**
+Ryan

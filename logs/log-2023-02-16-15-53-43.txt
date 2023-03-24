@@ -1,0 +1,21 @@
+[2023-02-16-15-53-43] File | New file - log:logs\log-2023-02-16-15-53-43.txt
+[2023-02-16-15-53-43] File | New file - server:server.txt
+[2023-02-16-15-53-45] File | Loaded file - user-channels:user-channels.txt
+[2023-02-16-15-53-45] File | New file - fakenames:fakenames.txt
+[2023-02-16-15-53-45] Startup | Events started
+[2023-02-16-15-53-45] Startup | Startup classes started
+[2023-02-16-15-53-45] Startup | Bot started
+[2023-02-16-15-53-45] File | New file - commands:commands.txt
+[2023-02-16-15-53-45] Startup | Commands registered: /ad
+[2023-02-16-15-53-45] Startup | Commands registered: /message
+[2023-02-16-15-53-45] Startup | Commands registered: /fixme
+[2023-02-16-15-53-45] Startup | Commands registered: /fakename
+[2023-02-16-15-53-45] Startup | Commands registered: /list
+[2023-02-16-15-53-45] Startup | Commands started
+[2023-02-16-15-53-51] Event | ButtonInteractionEvent - adSPLIT2I want you to code something!SPLIT1Bubbles:168190484819345409
+[2023-02-16-15-54-00] Event | SlashCommandInteractionEvent - /ad:168190484819345409
+[2023-02-16-15-54-06] Event | ModalInteractionEvent - ad-modal:168190484819345409
+[2023-02-16-15-54-06] Event | MessageReceivedEvent - 1071583374889734234:1070390016016121937:**Bubbles**
+
+testlololol
+[2023-02-16-15-54-08] Event | ButtonInteractionEvent - adSPLIT2presetSPLIT1Bubbles:168190484819345409

@@ -1,0 +1,16 @@
+[2023-02-16-15-42-38] File | New file - log:logs\log-2023-02-16-15-42-38.txt
+[2023-02-16-15-42-38] File | New file - server:server.txt
+[2023-02-16-15-42-39] File | Loaded file - user-channels:user-channels.txt
+[2023-02-16-15-42-39] File | New file - fakenames:fakenames.txt
+[2023-02-16-15-42-39] Startup | Events started
+[2023-02-16-15-42-39] Startup | Startup classes started
+[2023-02-16-15-42-39] Startup | Bot started
+[2023-02-16-15-42-39] File | New file - commands:commands.txt
+[2023-02-16-15-42-39] Startup | Commands registered: /ad
+[2023-02-16-15-42-39] Startup | Commands registered: /message
+[2023-02-16-15-42-39] Startup | Commands registered: /fixme
+[2023-02-16-15-42-39] Startup | Commands registered: /fakename
+[2023-02-16-15-42-39] Startup | Commands registered: /list
+[2023-02-16-15-42-39] Startup | Commands started
+[2023-02-16-15-42-42] Event | ButtonInteractionEvent - adSPLIT2Hi .SPLIT1Idealst:168190484819345409
+[2023-02-16-15-44-42] Event | ButtonInteractionEvent - adSPLIT2I want you to code something!SPLIT1Bubbles:168190484819345409

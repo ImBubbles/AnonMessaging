@@ -1,0 +1,37 @@
+[2023-02-14-18-34-03] File | New file - log:logs\log-2023-02-14-18-34-03.txt
+[2023-02-14-18-34-03] File | New file - server:server.txt
+[2023-02-14-18-34-06] File | Loaded file - user-channels:user-channels.txt
+[2023-02-14-18-34-06] File | New file - fakenames:fakenames.txt
+[2023-02-14-18-34-06] Startup | Events started
+[2023-02-14-18-34-06] Startup | Startup classes started
+[2023-02-14-18-34-06] Startup | Bot started
+[2023-02-14-18-34-06] File | New file - commands:commands.txt
+[2023-02-14-18-34-06] Startup | Commands registered: /ad
+[2023-02-14-18-34-06] Startup | Commands registered: /message
+[2023-02-14-18-34-06] Startup | Commands registered: /fixme
+[2023-02-14-18-34-06] Startup | Commands registered: /fakename
+[2023-02-14-18-34-06] Startup | Commands registered: /list
+[2023-02-14-18-34-06] Startup | Commands started
+[2023-02-14-18-34-33] Event | ModalInteractionEvent - ad-modal:168190484819345409
+[2023-02-14-18-34-33] Event | MessageReceivedEvent - 1071583374889734234:1070390016016121937:**Bubbles**
+
+**Java Custom Coding**
+I will code almost anything for you in java.
+
+**Small Projects:**
+$5
+
+**Medium-Sized Projects**
+$5-$25
+
+**Large Projects**
+$25-$50
+
+**What makes a project size?**
+Difficulty and time to make said project.
+
+**Quotes**
+If I can make it, will give you a quote depending on the project. I am okay with using any api that you want.
+[2023-02-14-18-35-50] Event | MessageReceivedEvent - 1071679321997062244:168190484819345409:also apparently I figured out the ad gui wasn't working so I just fixed it (literally changed "Event" to "GenericEvent" wtf)
+[2023-02-14-19-43-32] Event | MessageReceivedEvent - 1071552113634721803:302050872383242240:
+[2023-02-14-23-20-57] Event | MessageReceivedEvent - 1071552338780754012:964603571997933568:
