@@ -1,0 +1,23 @@
+[2023-02-13-22-32-34] File | New file - log:logs\log-2023-02-13-22-32-34.txt
+[2023-02-13-22-32-34] File | New file - server:server.txt
+[2023-02-13-22-32-35] File | Loaded file - user-channels:user-channels.txt
+[2023-02-13-22-32-35] File | New file - fakenames:fakenames.txt
+[2023-02-13-22-32-35] Startup | Events started
+[2023-02-13-22-32-35] Startup | Startup classes started
+[2023-02-13-22-32-35] Startup | Bot started
+[2023-02-13-22-32-35] File | New file - commands:commands.txt
+[2023-02-13-22-32-35] Startup | Commands registered: /ad
+[2023-02-13-22-32-35] Startup | Commands registered: /message
+[2023-02-13-22-32-35] Startup | Commands registered: /fixme
+[2023-02-13-22-32-35] Startup | Commands registered: /fakename
+[2023-02-13-22-32-35] Startup | Commands registered: /list
+[2023-02-13-22-32-35] Startup | Commands started
+[2023-02-13-22-32-46] Event | SlashCommandInteractionEvent - /list:168190484819345409
+[2023-02-13-22-32-51] Event | SlashCommandInteractionEvent - /list:168190484819345409
+[2023-02-13-22-32-51] Event | MessageReceivedEvent - 1071552113634721803:1070390016016121937:
+[2023-02-13-23-35-39] Event | MessageReceivedEvent - 1074196279262986300:1016146971586732162:oh........
+[2023-02-14-05-04-37] Event | ButtonInteractionEvent - adSPLIT1Make someone's life hellSPLIT2moat:899174185149009931
+[2023-02-14-05-04-45] Event | ButtonInteractionEvent - adSPLIT1replySPLIT2Idealst:899174185149009931
+[2023-02-14-05-04-50] Event | ButtonInteractionEvent - adSPLIT1replySPLIT2Idealst:899174185149009931
+[2023-02-14-05-04-56] Event | ButtonInteractionEvent - adSPLIT1I want custom coding services!SPLIT2Bubbles:899174185149009931
+[2023-02-14-07-31-27] Event | MessageReceivedEvent - 1074196279262986300:168190484819345409:ye so idk how u feel ab that

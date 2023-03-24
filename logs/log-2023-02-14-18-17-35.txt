@@ -1,0 +1,18 @@
+[2023-02-14-18-17-35] File | New file - log:logs\log-2023-02-14-18-17-35.txt
+[2023-02-14-18-17-35] File | New file - server:server.txt
+[2023-02-14-18-17-38] File | Loaded file - user-channels:user-channels.txt
+[2023-02-14-18-17-38] File | New file - fakenames:fakenames.txt
+[2023-02-14-18-17-39] Startup | Events started
+[2023-02-14-18-17-39] Startup | Startup classes started
+[2023-02-14-18-17-39] Startup | Bot started
+[2023-02-14-18-17-39] File | New file - commands:commands.txt
+[2023-02-14-18-17-39] Startup | Commands registered: /ad
+[2023-02-14-18-17-39] Startup | Commands registered: /message
+[2023-02-14-18-17-39] Startup | Commands registered: /fixme
+[2023-02-14-18-17-39] Startup | Commands registered: /fakename
+[2023-02-14-18-17-39] Startup | Commands registered: /list
+[2023-02-14-18-17-39] Startup | Commands started
+[2023-02-14-18-24-23] Event | MessageReceivedEvent - 1071552338780754012:972611030146510988:
+[2023-02-14-18-30-54] Event | SlashCommandInteractionEvent - /ad:168190484819345409
+[2023-02-14-18-31-17] Event | ModalInteractionEvent - ad-modal:168190484819345409
+[2023-02-14-18-31-29] Event | ModalInteractionEvent - ad-modal:168190484819345409

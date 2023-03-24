@@ -1,0 +1,82 @@
+[2023-02-05-01-46-00] File | New file - log:logs\log-2023-02-05-01-46-00.txt
+[2023-02-05-01-46-00] File | Loaded file - user-channels:user-channels.txt
+[2023-02-05-01-46-00] File | New file - fakenames:fakenames.txt
+[2023-02-05-01-46-00] Startup | Startup classes started
+[2023-02-05-01-46-00] File | New file - server:server.txt
+[2023-02-05-01-46-01] Startup | Bot started
+[2023-02-05-01-46-01] Event | onButtonInteraction | Event registered
+[2023-02-05-01-46-01] Event | onMessageReceived | Event registered
+[2023-02-05-01-46-01] Event | onModalInteraction | Event registered
+[2023-02-05-01-46-01] Startup | Events started
+[2023-02-05-01-46-01] File | New file - commands:commands.txt
+[2023-02-05-01-46-01] Startup | Commands registered: /ad
+[2023-02-05-01-46-01] Startup | Commands registered: /message
+[2023-02-05-01-46-01] Startup | Commands registered: /fakename
+[2023-02-05-01-46-01] Startup | Commands registered: /list
+[2023-02-05-01-46-01] Startup | Commands started
+[2023-02-05-01-55-56] Event | onButtonInteraction - ad'I want MM services!`Bubbles:168190484819345409
+[2023-02-05-01-59-17] File | New fakename entry - 168190484819345409:Faker
+[2023-02-05-01-59-18] Channel | New channel for 168190484819345409
+[2023-02-05-01-59-18] Event | onMessageReceived - 1041053948775239771:1071701537325326346:1070390016016121937:**New channel for user:**
+Bubbles
+
+**Under fake name:**
+Faker
+[2023-02-05-02-05-17] Event | onModalInteraction - ad-modal:1016187529067774032
+[2023-02-05-02-05-17] Event | onMessageReceived - 1041053948775239771:1071583374889734234:1070390016016121937:**Cyrax**
+
+**--OFFERS--**
+
+**Chick Fil A**
+($50 QR Code) - $11.00
+($100 QR Code) - $22.00
+(Regular Chicken Sandwich) - $3.00
+(Spicy Chicken Sandwich) - $3.00 
+-------------------
+**Restaurant.com**
+($50 Gift Card) - $12.00
+($100 Gift Card) - $24.00
+---------------------
+**Starbuck CC's**
+Starbucks [CC] - $5.25
+--------------------- 
+**Raising Canes CC's**
+Raising Canes [CC] - $5.25
+---------------------
+**Sonic Drive-In**
+Sonic [$10-$20 Balance] - $7.00
+Sonic [$20-$30 Balance] - $10.00
+---------------------
+**OnlyFans.com**
+OnlyFans w/ CC attached: $3.50
+---------------------
+**SaksFifthAvenue**
+SaksFifthAvenue+CC - $1.25
+SaksFifthAvenue+Amex - $3.00
+SaksFifthAvenue+StoreCard - $8.00
+[2023-02-05-02-05-17] Event | onMessageReceived - 1041053948775239771:1071583636693983373:1070390016016121937:Ad sent successfully.
+[2023-02-05-02-05-18] Event | onMessageReceived - 1041053948775239771:1071583374889734234:1070390016016121937:
+[2023-02-05-02-05-21] Event | onButtonInteraction - ad'I Want Your Service!`Cyrax:1016187529067774032
+[2023-02-05-02-05-24] Event | onModalInteraction - msg-modal:1016187529067774032
+[2023-02-05-02-05-33] Event | onButtonInteraction - ad'I Want Your Service!`Cyrax:168190484819345409
+[2023-02-05-02-05-34] Event | onModalInteraction - msg-modal:168190484819345409
+[2023-02-05-02-05-35] Webhook | https://discord.com/api/v10/webhooks/1071668686982754405/q8BiWiKKroucaqP2zsDYbWwYNDyrenLrEEN3aKWfBm-Rzn6ZeSUdfLqxwvf5jJkOITDb:{Message=I Want Your Service!}
+[2023-02-05-02-05-36] Webhook | https://discord.com/api/v10/webhooks/1071701539204378665/99YI7CCMD9SvDn1zOPmgmYlzo_qSDBn8_D_F9-Ovzw81qeCR4gVX_v3YqaZuSyXcb0Bk:{Message=I Want Your Service!}
+[2023-02-05-02-05-36] Event | onMessageReceived - 1041053948775239771:1071668684340346960:1071668686982754405:
+[2023-02-05-02-05-36] Event | onMessageReceived - 1041053948775239771:1071668684340346960:1070390016016121937:
+[2023-02-05-02-05-36] Event | onMessageReceived - 1041053948775239771:1071701537325326346:1071701539204378665:
+[2023-02-05-02-05-39] Event | onButtonInteraction - reply:Faker:1016187529067774032
+[2023-02-05-02-05-46] Event | onModalInteraction - msg-modal:1016187529067774032
+[2023-02-05-02-05-47] Webhook | https://discord.com/api/v10/webhooks/1071701539204378665/99YI7CCMD9SvDn1zOPmgmYlzo_qSDBn8_D_F9-Ovzw81qeCR4gVX_v3YqaZuSyXcb0Bk:{Message=hello}
+[2023-02-05-02-05-47] Webhook | https://discord.com/api/v10/webhooks/1071668686982754405/q8BiWiKKroucaqP2zsDYbWwYNDyrenLrEEN3aKWfBm-Rzn6ZeSUdfLqxwvf5jJkOITDb:{Message=hello}
+[2023-02-05-02-05-47] Event | onMessageReceived - 1041053948775239771:1071701537325326346:1071701539204378665:
+[2023-02-05-02-05-47] Event | onMessageReceived - 1041053948775239771:1071701537325326346:1070390016016121937:
+[2023-02-05-02-05-47] Event | onMessageReceived - 1041053948775239771:1071668684340346960:1071668686982754405:
+[2023-02-05-02-05-51] Event | onButtonInteraction - reply:Cyrax:168190484819345409
+[2023-02-05-02-06-00] Event | onModalInteraction - msg-modal:168190484819345409
+[2023-02-05-02-06-01] Webhook | https://discord.com/api/v10/webhooks/1071668686982754405/q8BiWiKKroucaqP2zsDYbWwYNDyrenLrEEN3aKWfBm-Rzn6ZeSUdfLqxwvf5jJkOITDb:{Message=Hey, I want yo dick please ill pay $100}
+[2023-02-05-02-06-02] Webhook | https://discord.com/api/v10/webhooks/1071701539204378665/99YI7CCMD9SvDn1zOPmgmYlzo_qSDBn8_D_F9-Ovzw81qeCR4gVX_v3YqaZuSyXcb0Bk:{Message=Hey, I want yo dick please ill pay $100}
+[2023-02-05-02-06-02] Event | onMessageReceived - 1041053948775239771:1071668684340346960:1071668686982754405:
+[2023-02-05-02-06-02] Event | onMessageReceived - 1041053948775239771:1071668684340346960:1070390016016121937:
+[2023-02-05-02-06-02] Event | onMessageReceived - 1041053948775239771:1071701537325326346:1071701539204378665:
+[2023-02-05-02-11-13] Event | onMessageReceived - 1041053948775239771:1071552338780754012:1016187529067774032:

@@ -1,0 +1,52 @@
+[2023-02-13-19-21-57] File | New file - log:logs\log-2023-02-13-19-21-57.txt
+[2023-02-13-19-21-57] File | New file - server:server.txt
+[2023-02-13-19-21-59] File | Loaded file - user-channels:user-channels.txt
+[2023-02-13-19-21-59] File | New file - fakenames:fakenames.txt
+[2023-02-13-19-21-59] Startup | Events started
+[2023-02-13-19-21-59] Startup | Startup classes started
+[2023-02-13-19-21-59] Startup | Bot started
+[2023-02-13-19-21-59] File | New file - commands:commands.txt
+[2023-02-13-19-21-59] Startup | Commands registered: /ad
+[2023-02-13-19-21-59] Startup | Commands registered: /message
+[2023-02-13-19-21-59] Startup | Commands registered: /fixme
+[2023-02-13-19-21-59] Startup | Commands registered: /fakename
+[2023-02-13-19-21-59] Startup | Commands registered: /list
+[2023-02-13-19-21-59] Startup | Commands started
+[2023-02-13-19-22-06] Event | SlashCommandInteractionEvent - /message name: Cryptic message: heyyy:168190484819345409
+[2023-02-13-19-22-07] Event | MessageReceivedEvent - 1072776711743225918:1070390016016121937:**Bubbles**
+
+heyyy
+
+@Sero
+[2023-02-13-19-22-07] Event | MessageReceivedEvent - 1071701537325326346:1070390016016121937:**Sent To Cryptic**
+
+heyyy
+[2023-02-13-19-22-23] Event | MessageReceivedEvent - 1072776711743225918:168190484819345409:i dont think ur cryptic
+[2023-02-13-19-22-34] Event | MessageReceivedEvent - 1072776711743225918:168190484819345409:oh wait no u r
+[2023-02-13-19-22-35] Event | MessageReceivedEvent - 1072776711743225918:168190484819345409:nvm
+[2023-02-13-19-22-37] Event | MessageReceivedEvent - 1072776711743225918:168190484819345409:it works
+[2023-02-13-19-23-35] Event | ButtonInteractionEvent - reply:Bubbles:645439477505851394
+[2023-02-13-19-23-45] Event | ModalInteractionEvent - msg-modal:645439477505851394
+[2023-02-13-19-23-45] Event | MessageReceivedEvent - 1071701537325326346:1070390016016121937:**Cryptic**
+
+Hello, what can I do for you@Bubbles
+[2023-02-13-19-23-45] Event | MessageReceivedEvent - 1072776711743225918:1070390016016121937:**Sent To Bubbles**
+
+Hello, what can I do for you
+[2023-02-13-19-25-41] Event | SlashCommandInteractionEvent - /ad:645439477505851394
+[2023-02-13-19-38-07] Event | ButtonInteractionEvent - reply:Cryptic:168190484819345409
+[2023-02-13-19-38-39] Event | ModalInteractionEvent - msg-modal:168190484819345409
+[2023-02-13-19-38-41] Event | MessageReceivedEvent - 1071701537325326346:1070390016016121937:**Sent To Cryptic**
+
+sorry lmao I just thought you were someone else lmao i own the server yet i dont even know people's fake names yet :sob:
+[2023-02-13-19-38-41] Event | MessageReceivedEvent - 1072776711743225918:1070390016016121937:**Bubbles**
+
+sorry lmao I just thought you were someone else lmao i own the server yet i dont even know people's fake names yet :sob:@Sero
+[2023-02-13-19-39-05] Event | ButtonInteractionEvent - reply:Bubbles:645439477505851394
+[2023-02-13-19-39-14] Event | ModalInteractionEvent - msg-modal:645439477505851394
+[2023-02-13-19-39-15] Event | MessageReceivedEvent - 1071701537325326346:1070390016016121937:**Cryptic**
+
+Wacky and silly@Bubbles
+[2023-02-13-19-39-15] Event | MessageReceivedEvent - 1072776711743225918:1070390016016121937:**Sent To Bubbles**
+
+Wacky and silly

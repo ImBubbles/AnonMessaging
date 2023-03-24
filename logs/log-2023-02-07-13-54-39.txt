@@ -1,0 +1,5 @@
+[2023-02-07-13-54-39] File | New file - log:logs\log-2023-02-07-13-54-39.txt
+[2023-02-07-13-54-39] File | Loaded file - user-channels:user-channels.txt
+[2023-02-07-13-54-39] File | New file - fakenames:fakenames.txt
+[2023-02-07-13-54-39] Startup | Startup classes started
+[2023-02-07-13-54-39] File | New file - server:server.txt

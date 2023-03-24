@@ -1,0 +1,33 @@
+[2023-02-13-19-41-34] File | New file - log:logs\log-2023-02-13-19-41-34.txt
+[2023-02-13-19-41-34] File | New file - server:server.txt
+[2023-02-13-19-41-36] File | Loaded file - user-channels:user-channels.txt
+[2023-02-13-19-41-36] File | New file - fakenames:fakenames.txt
+[2023-02-13-19-41-36] Startup | Events started
+[2023-02-13-19-41-36] Startup | Startup classes started
+[2023-02-13-19-41-36] Startup | Bot started
+[2023-02-13-19-41-36] File | New file - commands:commands.txt
+[2023-02-13-19-41-36] Startup | Commands registered: /ad
+[2023-02-13-19-41-36] Startup | Commands registered: /message
+[2023-02-13-19-41-36] Startup | Commands registered: /fixme
+[2023-02-13-19-41-36] Startup | Commands registered: /fakename
+[2023-02-13-19-41-36] Startup | Commands registered: /list
+[2023-02-13-19-41-36] Startup | Commands started
+[2023-02-13-19-41-52] Event | ButtonInteractionEvent - reply:Bubbles:645439477505851394
+[2023-02-13-19-42-11] Event | ModalInteractionEvent - msg-modal:645439477505851394
+[2023-02-13-19-42-11] Event | MessageReceivedEvent - 1072776711743225918:1070390016016121937:**Sent To Bubbles**
+
+Possibly goofy?
+[2023-02-13-19-42-11] Event | MessageReceivedEvent - 1071701537325326346:1070390016016121937:**Cryptic**
+
+Possibly goofy?
+
+@Bubbles
+[2023-02-13-19-43-46] Event | SlashCommandInteractionEvent - /message name: Moneyman message: you's a bitch:168190484819345409
+[2023-02-13-19-43-47] Event | MessageReceivedEvent - 1071701537325326346:1070390016016121937:**Sent To Moneyman**
+
+you's a bitch
+[2023-02-13-19-43-48] Event | MessageReceivedEvent - 1071603697580265472:1070390016016121937:**Bubbles**
+
+you's a bitch
+
+@Orang
